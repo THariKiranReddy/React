@@ -1,0 +1,76 @@
+.fm{
+    width:1000px;
+    border:1px solid black;
+    display:block;
+   margin:0 auto;
+   padding:20px;
+}
+.em{
+     margin-top:20px;
+}
+input[type="email"]{
+    text-size:18px;
+    width:1000px;
+}
+input[type="password"]{
+    text-size:18px;
+    width:1000px;
+}
+input[type="number"]{
+    text-size:18px;
+    width:400px;
+}
+input[type="date"]{
+    text-size:18px;
+    width:400px;
+}
+input[type="file"]{
+    text-size:18px;
+    width:400px;
+}
+input[type="text"]{
+    text-size:18px;
+    width:400px;
+}
+.sl{
+    text-size:18px;
+    width:400px;
+}
+.ps{
+     margin-top:20px;
+}
+.fn{
+    display:flex;
+    justify-content:space-between;
+}
+.mb{
+    display:flex;
+    justify-content:space-between;
+    margin-top:20px;
+    gap:30px;
+}
+.bd{
+    display:flex;
+    justify-content:space-between;
+     margin-top:20px;
+}
+.mr{
+    display:flex;
+    justify-content:space-between;
+     margin-top:20px;
+}
+.gen{
+    display:flex;
+    justify-content:space-between;
+     margin-top:20px;
+}
+.btn{
+    display:block;
+    width:1000px;
+   margin:0 auto;
+   margin-top:20px;
+   background-color:green;
+   color:white;
+   text-size:18px;
+   border-radius:4px;
+}
