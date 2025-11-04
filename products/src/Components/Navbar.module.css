@@ -1,0 +1,16 @@
+.notActive{
+    color:blue;
+    text-decoration:none;
+}
+.active{
+    color:red;
+    text-decoration:none;
+}
+.navbar{
+    display:flex;
+    justify-content:space-between;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width:500px;
+    margin:0 auto;
+    padding:6px;
+}
