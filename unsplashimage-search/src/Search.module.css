@@ -1,0 +1,28 @@
+.searchInput{
+    border-color:light-grey;
+    border-radius:4px;
+}
+.formInput{
+    border-radius:0;
+}
+.btn{
+    border-radius:0px;
+    background-color:#1E90ff;
+    color:white;
+    border:transparent;
+}
+.btn:hover{
+   cursor:pointer;
+   border-radius:4px;
+   background-color:lightblue;
+   color:black;
+}
+.formContainer{
+    margin:10 auto;
+    display:grid;
+    grid-template-columns: 0.2fr 0fr;
+    width:auto;
+    justify-content:center;
+    margin-top:10px;
+    gap:5px;
+}

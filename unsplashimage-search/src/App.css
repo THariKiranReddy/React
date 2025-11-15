@@ -1,0 +1,9 @@
+.dark-theme{
+    backgroundColor:#333;
+    color:#f0f0f0;
+
+}
+/* --dark-mode-bg-color: #333;
+  --dark-mode-text-color: #f0f0f0;
+  --darkModeTransition: color 0.3s ease-in-out,
+    background-color 0.3s ease-in-out; */

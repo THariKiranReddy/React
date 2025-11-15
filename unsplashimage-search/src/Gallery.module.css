@@ -1,0 +1,16 @@
+.img{
+   width:400px;
+   height:400px;
+}
+.formate{
+    /* display:flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap;
+    gap:40px; */
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr;
+    margin-left:70px;
+    margin-top:30px;
+    gap:30px;
+
+}
